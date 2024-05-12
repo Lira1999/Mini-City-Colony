@@ -1,0 +1,415 @@
+﻿  main.cpp
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\cylinder.h(187,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\cylinder.h(191,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\cylinder.h(215,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\cylinder.h(217,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\cylinder.h(185,28): warning C4101: 'xz': unreferenced local variable
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\sphere.h(187,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\sphere.h(188,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\sphere.h(190,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(90,31): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(96,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(97,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(101,31): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(107,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(108,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(123,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(129,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(130,29): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(134,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(140,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(141,29): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(147,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(153,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(186,14): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(186,9): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(186,5): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(207,16): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(207,11): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(220,16): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(220,11): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(341,92): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(361,90): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(377,93): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(395,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(493,66): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(577,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(596,27): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(616,27): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(636,27): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(657,27): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(677,27): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(697,27): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(759,29): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(768,29): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(777,29): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(826,29): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(835,29): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(844,29): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(849,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(862,28): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(867,15): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(876,28): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(889,28): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(902,28): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(916,28): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(929,28): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(936,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(949,28): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(954,15): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(963,28): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(976,28): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(989,28): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1003,28): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1016,28): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1343,101): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1343,94): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1387,64): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1393,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1553,69): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1557,139): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1557,132): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1557,125): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1557,112): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1559,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1566,139): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1566,132): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1566,125): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1566,118): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1573,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1707,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1708,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1708,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1708,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1709,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1709,54): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1709,47): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1711,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1711,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1711,54): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1711,47): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1712,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1712,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1712,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1712,47): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1718,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1719,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1815,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1832,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1842,58): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1842,51): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1842,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1853,58): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1853,51): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1853,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1869,58): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1869,51): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1869,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1880,58): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1880,51): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1880,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1892,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1892,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1892,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1903,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1903,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1903,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1915,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1915,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1915,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1926,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1926,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1926,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1937,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1937,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1937,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1963,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1963,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1969,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1969,54): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1969,47): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1978,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1979,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1980,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1982,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1983,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1984,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1986,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1987,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1988,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1990,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1991,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(1992,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2011,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2011,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2011,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2027,117): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2027,111): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2027,104): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2030,117): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2030,111): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2030,104): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2033,117): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2033,111): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2033,104): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2036,67): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2036,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2036,54): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2045,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2045,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2045,64): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2045,75): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2045,86): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2050,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2050,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2050,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2075,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2075,52): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2075,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2107,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2107,52): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2107,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2138,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2138,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2138,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2146,29): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2146,40): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2146,60): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2146,71): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2146,82): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2151,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2151,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2151,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2184,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2184,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2184,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2209,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2209,52): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2209,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2241,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2241,52): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2241,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2272,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2272,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2272,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2280,29): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2280,40): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2280,60): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2280,71): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2280,82): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2285,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2285,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2285,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2307,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2307,52): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2307,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2339,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2339,52): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2339,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2370,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2370,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2370,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2377,29): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2377,40): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2377,60): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2377,71): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2377,82): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2382,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2382,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2382,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2390,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2390,52): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2390,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2403,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2403,52): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2403,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2415,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2415,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2415,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2421,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2429,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2429,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2429,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2585,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2594,21): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2605,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2615,19): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2624,19): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2635,21): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2636,19): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2648,14): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2649,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2650,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2651,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2672,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2674,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2695,19): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2696,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2697,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2698,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2719,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2721,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2742,19): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2743,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2744,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2745,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2766,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2768,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2789,18): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2790,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2791,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2792,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2813,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2815,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2836,18): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2837,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2838,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2839,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2860,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2862,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2882,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2884,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2899,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2900,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2901,10): warning C4305: '=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2956,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2959,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2960,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2961,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2962,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2963,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2973,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2973,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2973,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2984,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2984,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2984,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(2995,49): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3006,49): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3017,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3017,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3017,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3028,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3028,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3028,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3064,47): warning C4305: '-=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3065,52): warning C4305: '-=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3066,34): warning C4305: '-=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3068,75): warning C4305: '+=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3069,75): warning C4305: '-=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3070,75): warning C4305: '+=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3071,75): warning C4305: '-=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3072,75): warning C4305: '+=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3073,75): warning C4305: '-=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3074,71): warning C4305: '+=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3075,71): warning C4305: '-=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3076,71): warning C4305: '+=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3077,71): warning C4305: '-=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3078,71): warning C4305: '+=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3079,71): warning C4305: '-=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3083,29): warning C4305: '+=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3090,29): warning C4305: '+=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3097,29): warning C4305: '+=': truncation from 'double' to 'float'
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3105,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3110,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3115,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3120,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3125,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\my_city1\main.cpp(3130,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  my_city1.vcxproj -> F:\4.2\4.2 storage\Lab\CSE 4208 (Graphics Lab)\my_city1\x64\Debug\my_city1.exe
